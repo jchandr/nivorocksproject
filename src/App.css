@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.playground {
+  margin-top: 1em;
+}
+
+.bump-chart-wrapper {
+  height: 800px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -11,6 +19,10 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+}
+
+.area-bump-chart {
+  height: ;
 }
 
 .App-header {

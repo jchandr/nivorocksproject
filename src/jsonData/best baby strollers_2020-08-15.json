@@ -1,0 +1,2197 @@
+{
+  "request_info": {
+    "success": true,
+    "credits_used": -1971,
+    "credits_remaining": 2071
+  },
+  "search_metadata": {
+    "created_at": "2020-08-15T19:39:24.005Z",
+    "processed_at": "2020-08-15T19:39:27.645Z",
+    "total_time_taken": 3.64,
+    "engine_url": "https://www.google.com/search?q=best+baby+strollers&gl=us&hl=en&uule=w+CAIQICIdUGhvZW5peCxBcml6b25hLFVuaXRlZCBTdGF0ZXM&num=100",
+    "html_url": "https://api.serpwow.com/live/search?q=best+baby+strollers&include_html=true&include_answer_box=true&gl=us&hl=en&location=Phoenix,Arizona,United+States&google_domain=google.com&device=desktop&num=100&flatten_results=true&api_key=B33DFFB24E854E5390A5DC6898FA0BF2&source=nodejs&engine=google&output=html",
+    "json_url": "https://api.serpwow.com/live/search?q=best+baby+strollers&include_html=true&include_answer_box=true&gl=us&hl=en&location=Phoenix,Arizona,United+States&google_domain=google.com&device=desktop&num=100&flatten_results=true&api_key=B33DFFB24E854E5390A5DC6898FA0BF2&source=nodejs&engine=google&output=json",
+    "location_auto_message": "We have automatically set the 'google_domain', 'gl' and 'hl' parameters to match the supplied location of 'Phoenix,Arizona,United States'. You can stop this behaviour by setting the 'location_auto' parameter to 'false'.",
+    "timing": [
+      "global_init - 0ms (total 0ms)",
+      "auth_apikey - 1ms (total 1ms)",
+      "auth_retrieve_plan - 0ms (total 1ms)",
+      "auth_retrieve_credit_usage - 1ms (total 3ms)",
+      "processing_invoking_worker - 0ms (total 4ms)",
+      "processing_execution_complete - 3640ms (total 3645ms)",
+      "auth_credit_usage_reconcile - 130ms (total 3775ms)",
+      "global_end - 0ms (total 3775ms)"
+    ]
+  },
+  "search_parameters": {
+    "q": "best baby strollers",
+    "include_html": "true",
+    "include_answer_box": "true",
+    "gl": "us",
+    "hl": "en",
+    "location": "Phoenix,Arizona,United States",
+    "google_domain": "google.com",
+    "device": "desktop",
+    "num": "100",
+    "flatten_results": "true",
+    "source": "nodejs",
+    "engine": "google"
+  },
+  "search_information": {
+    "original_query_yields_zero_results": false,
+    "total_results": 140000000,
+    "time_taken_displayed": 0.74,
+    "query_displayed": "best baby strollers"
+  },
+  "answer_box": {
+    "answers": [
+      {
+        "category": "Best Baby Strollers",
+        "rows": [
+          "Best Baby Stroller : Uppababy Vista.",
+          "Most Versatile Baby Stroller : Baby Jogger City Mini GT2.",
+          "Best Affordable Baby Stroller for Travel : Maclaren Mark II.",
+          "Best Pricier Baby Stroller for Travel : Doona Infant Car Seat/Stroller.",
+          "Best Baby Stroller for Day Trips : BOB Revolution Flex."
+        ],
+        "type": "list",
+        "source": {
+          "link": "https://www.whattoexpect.com/baby-products/strollers/best-baby-strollers/",
+          "displayed_link": "www.whattoexpect.com : Products : Strollers",
+          "title": "Best Baby Strollers of 2020 - Best Strollers - What to Expect"
+        }
+      }
+    ],
+    "block_position": 1
+  },
+  "inline_videos": [
+    {
+      "title": "TOP 5: Best Baby Stroller 2020",
+      "link": "https://www.youtube.com/watch?v=Rgq1mDgUaYg",
+      "source": "YouTube",
+      "date": "Jan 13, 2020",
+      "date_utc": "2020-01-13T12:00:00.000Z",
+      "block_position": 26
+    },
+    {
+      "title": "Best Baby Stroller in 2019 - Top 6 Baby Strollers Review",
+      "link": "https://www.youtube.com/watch?v=3vjT1Kiyobo",
+      "source": "YouTube",
+      "date": "Mar 18, 2019",
+      "date_utc": "2019-03-18T12:00:00.000Z",
+      "block_position": 26
+    },
+    {
+      "title": "Best Strollers of 2020 | UPPAbaby Vista Cruz | Nuna Mixx ...",
+      "link": "https://www.youtube.com/watch?v=-OMSG36BLR4",
+      "source": "YouTube",
+      "date": "Jan 2, 2020",
+      "date_utc": "2020-01-02T12:00:00.000Z",
+      "block_position": 26
+    }
+  ],
+  "inline_shopping": [
+    {
+      "link": "https://www.hellomockingbird.com/products/mockingbird-stroller",
+      "title": "Mockingbird Baby Stroller, Leather Handle, Bassinet Convertible Stroller, Full Size, Modular, Reversible Stroller in Light Blue/Brown Leather",
+      "price": "$350.00",
+      "merchant": "Mockingbird",
+      "position": 1,
+      "block_position": "top",
+      "is_single_product": false,
+      "visible_initially": true,
+      "image": "data:image/png;base64,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",
+      "price_parsed": {
+        "symbol": "$",
+        "value": 350
+      },
+      "rating": 4.7,
+      "reviews": 750,
+      "feed_name": "Mockingbird Baby Stroller, Leather Handle, Bassinet Convertible Stroller, Full Size, Modular, Reversible Stroller in Light Blue/Brown Leather",
+      "feed_link": "https://www.hellomockingbird.com/products/mockingbird-stroller"
+    },
+    {
+      "link": "https://strolleria.com/products/2020-uppababy-vista-v2-stroller?variant=30977715077194",
+      "title": "2020 UPPAbaby VISTA V2 Stroller Sierra Dune Beige with Blue & Green Knit by Strolleria | UPPAbaby Baby Strollers | Strolleria",
+      "price": "$727.99",
+      "merchant": "Strolleria",
+      "position": 2,
+      "block_position": "top",
+      "is_single_product": false,
+      "visible_initially": true,
+      "image": "data:image/png;base64,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",
+      "regular_price": "Was $937",
+      "price_parsed": {
+        "symbol": "$",
+        "value": 727.99
+      },
+      "feed_name": "2020 UPPAbaby VISTA V2 Stroller Sierra Dune Beige with Blue & Green Knit by Strolleria | UPPAbaby Baby Strollers | Strolleria",
+      "feed_link": "https://strolleria.com/products/2020-uppababy-vista-v2-stroller?variant=30977715077194"
+    },
+    {
+      "link": "https://www.buybuybaby.com/store/product/uppababy-reg-vista-v2-stroller/5448329?skuId=69484598&mcid=PS_googlepla",
+      "title": "Uppababy Vista V2 Stroller In Gregory Blue Melange",
+      "price": "$969.99",
+      "merchant": "buybuy BABY",
+      "position": 3,
+      "block_position": "top",
+      "is_single_product": false,
+      "visible_initially": true,
+      "image": "data:image/png;base64,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",
+      "price_parsed": {
+        "symbol": "$",
+        "value": 969.99
+      },
+      "rating": 4.5,
+      "reviews": 48,
+      "feed_name": "Uppababy Vista V2 Stroller In Gregory Blue Melange",
+      "feed_link": "https://www.buybuybaby.com/store/product/uppababy-reg-vista-v2-stroller/5448329?skuId=69484598&mcid=PS_googlepla"
+    }
+  ],
+  "local_map": {
+    "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=best+baby+strollers&npsic=0&rflfq=1&rldoc=1&rlha=0&rllag=33572258,-112132101,10712&tbm=lcl&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QtgN6BAhkEAU",
+    "gps_coordinates": {
+      "latitude": 33.572258,
+      "longitude": -112.132101,
+      "altitude": 10712
+    }
+  },
+  "local_results": [
+    {
+      "position": 1,
+      "title": "Target",
+      "address": "Phoenix, AZ � In the Christown Spectrum Mall (602) 308-3604",
+      "data_cid": "139698482545248836",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "extensions": [
+        "Open",
+        "Closes 10PM",
+        "(602) 308-3604"
+      ],
+      "rating": 4.2,
+      "reviews": 754,
+      "type": "Baby store",
+      "block_position": 20
+    },
+    {
+      "position": 2,
+      "title": "buybuy BABY",
+      "address": "Peoria, AZ � In Arrowhead Palms (623) 499-3857",
+      "data_cid": "4570985748063555813",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "extensions": [
+        "Open",
+        "Closes 9PM",
+        "(623) 499-3857"
+      ],
+      "rating": 3.8,
+      "reviews": 36,
+      "type": "Baby store",
+      "block_position": 20
+    },
+    {
+      "position": 3,
+      "title": "Target",
+      "address": "Phoenix, AZ (602) 603-7581",
+      "data_cid": "2611529996972799860",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "extensions": [
+        "Open",
+        "Closes 10PM",
+        "(602) 603-7581"
+      ],
+      "rating": 3.8,
+      "reviews": 343,
+      "type": "Baby store",
+      "block_position": 20
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What is the best stroller 2020?",
+      "answer": "We've Done All the Work For You  Here Are the 13 Best Strollers For 2020",
+      "answer_list": [
+        {
+          "text": "Cybex e-PRIAM Stroller. ..."
+        },
+        {
+          "text": "Bugaboo Fox Complete Stroller. ..."
+        },
+        {
+          "text": "UPPAbaby VISTA Spenser. ..."
+        },
+        {
+          "text": "Ergobaby Compact Stroller Metro Ergobaby. ..."
+        },
+        {
+          "text": "Silver Cross 2020 Jet Super Compact Stroller. ..."
+        },
+        {
+          "text": "UPPAbaby MINU. ..."
+        },
+        {
+          "text": "Nuna Demi Grow Stroller. ..."
+        },
+        {
+          "text": "Mockingbird Stroller."
+        }
+      ],
+      "source": {
+        "link": "https://www.popsugar.com/family/Best-Strollers-2020-45482898",
+        "displayed_link": "www.popsugar.com : family : Best-Strollers-2020-45482...www.popsugar.com : family : Best-Strollers-2020-45482...",
+        "title": "The 13 Best Baby Strollers 2020 at Every Price Point | POPSUGAR ..."
+      },
+      "search": {
+        "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=What+is+the+best+stroller+2020%3F&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Qzmd6BAhoEA0",
+        "title": "What is the best stroller 2020?"
+      },
+      "block_position": 5
+    },
+    {
+      "question": "What is the safest baby stroller?",
+      "answer": "See our full list of Stroller Ratings. UPPAbaby. Vista (Amazon Bundle)Peg Perego. Booklet Travel System.Chicco. Activ3 Travel System.Nuna. MIXX Travel System.Graco. Modes2Grow Travel System.Graco. UNO2DUO travel system.Chicco. Mini Bravo Plus travel system.Britax. B-Lively & B-safe 35 Travel System.",
+      "source": {
+        "link": "https://www.consumerreports.org/cro/strollers/buying-guide/index.htm",
+        "displayed_link": "www.consumerreports.org : cro : strollers : buying-guidewww.consumerreports.org : cro : strollers : buying-guide",
+        "title": "Best Stroller Buying Guide - Consumer Reports"
+      },
+      "search": {
+        "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=What+is+the+safest+baby+stroller%3F&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Qzmd6BAhoEBk",
+        "title": "What is the safest baby stroller?"
+      },
+      "block_position": 5
+    },
+    {
+      "question": "What baby strollers do celebrities use?",
+      "answer": "Nuna Mixx is a celebrity favorite. Nuna is a popular Dutch baby gear company known for stylish, affordable, and ultra-compact strollers. Celebrities like Gwen Stefani, Kourtney Kardashian and Miranda Kerr have all been spotted pushing around either the demi, tavo, pepp next, or mixx series.",
+      "source": {
+        "link": "https://www.forbes.com/sites/julieloffredi/2019/05/01/stylish-strollers-celebrity-parents-really-use/",
+        "displayed_link": "www.forbes.com : sites : julieloffredi : 2019/05/01 : styl...www.forbes.com : sites : julieloffredi : 2019/05/01 : styl...",
+        "title": "Stylish Strollers And Car Seats Celebrity Parents Really Use - Forbes"
+      },
+      "search": {
+        "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=What+baby+strollers+do+celebrities+use%3F&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Qzmd6BAhoECQ",
+        "title": "What baby strollers do celebrities use?"
+      },
+      "block_position": 5
+    },
+    {
+      "question": "How do I choose a stroller for my newborn?",
+      "answer": "If you're planning to put a newborn into the stroller, look for models that offer a nearly flat recline. Or find a stroller that can easily attach an infant car seat, which helps you move a sleeping baby without drama. Put all the pieces together.",
+      "source": {
+        "link": "https://www.whattoexpect.com/baby-products/strollers/",
+        "displayed_link": "www.whattoexpect.com : baby-products : strollerswww.whattoexpect.com : baby-products : strollers",
+        "title": "Stroller Buying Guide: How to Buy a Baby Stroller - What to Expect"
+      },
+      "search": {
+        "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=How+do+I+choose+a+stroller+for+my+newborn%3F&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Qzmd6BAhoEC8",
+        "title": "How do I choose a stroller for my newborn?"
+      },
+      "block_position": 5
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=best+baby+strollers&num=100&gl=us&hl=en&ei=7Dk4X_OKKZ3F4-EPspeX8AE&start=100&sa=N&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Q8NMDegQIahBV",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=best+baby+strollers&num=100&gl=us&hl=en&ei=7Dk4X_OKKZ3F4-EPspeX8AE&start=100&sa=N&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Q8tMDegQIahBT"
+    },
+    "api_pagination": {
+      "next": "https://api.serpwow.com/live/search?q=best%20baby%20strollers&include_html=true&include_answer_box=true&gl=us&hl=en&location=Phoenix,Arizona,United%20States&google_domain=google.com&device=desktop&flatten_results=true&api_key=B33DFFB24E854E5390A5DC6898FA0BF2&source=nodejs&engine=google&page=2&num=100",
+      "other_pages": {
+        "2": "https://api.serpwow.com/live/search?q=best%20baby%20strollers&include_html=true&include_answer_box=true&gl=us&hl=en&location=Phoenix,Arizona,United%20States&google_domain=google.com&device=desktop&flatten_results=true&api_key=B33DFFB24E854E5390A5DC6898FA0BF2&source=nodejs&engine=google&page=2&num=100"
+      }
+    }
+  },
+  "organic_results": [
+    {
+      "answers": [
+        {
+          "category": "Best Baby Strollers",
+          "rows": [
+            "Best Baby Stroller : Uppababy Vista.",
+            "Most Versatile Baby Stroller : Baby Jogger City Mini GT2.",
+            "Best Affordable Baby Stroller for Travel : Maclaren Mark II.",
+            "Best Pricier Baby Stroller for Travel : Doona Infant Car Seat/Stroller.",
+            "Best Baby Stroller for Day Trips : BOB Revolution Flex."
+          ],
+          "type": "list",
+          "source": {
+            "link": "https://www.whattoexpect.com/baby-products/strollers/best-baby-strollers/",
+            "displayed_link": "www.whattoexpect.com : Products : Strollers",
+            "title": "Best Baby Strollers of 2020 - Best Strollers - What to Expect"
+          }
+        }
+      ],
+      "block_position": 1,
+      "type": "answer_box",
+      "position": 1
+    },
+    {
+      "question": "What is the best stroller 2020?",
+      "answer": "We've Done All the Work For You  Here Are the 13 Best Strollers For 2020",
+      "answer_list": [
+        {
+          "text": "Cybex e-PRIAM Stroller. ..."
+        },
+        {
+          "text": "Bugaboo Fox Complete Stroller. ..."
+        },
+        {
+          "text": "UPPAbaby VISTA Spenser. ..."
+        },
+        {
+          "text": "Ergobaby Compact Stroller Metro Ergobaby. ..."
+        },
+        {
+          "text": "Silver Cross 2020 Jet Super Compact Stroller. ..."
+        },
+        {
+          "text": "UPPAbaby MINU. ..."
+        },
+        {
+          "text": "Nuna Demi Grow Stroller. ..."
+        },
+        {
+          "text": "Mockingbird Stroller."
+        }
+      ],
+      "source": {
+        "link": "https://www.popsugar.com/family/Best-Strollers-2020-45482898",
+        "displayed_link": "www.popsugar.com : family : Best-Strollers-2020-45482...www.popsugar.com : family : Best-Strollers-2020-45482...",
+        "title": "The 13 Best Baby Strollers 2020 at Every Price Point | POPSUGAR ..."
+      },
+      "search": {
+        "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=What+is+the+best+stroller+2020%3F&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Qzmd6BAhoEA0",
+        "title": "What is the best stroller 2020?"
+      },
+      "block_position": 5,
+      "type": "related_questions",
+      "position": 2
+    },
+    {
+      "question": "What is the safest baby stroller?",
+      "answer": "See our full list of Stroller Ratings. UPPAbaby. Vista (Amazon Bundle)Peg Perego. Booklet Travel System.Chicco. Activ3 Travel System.Nuna. MIXX Travel System.Graco. Modes2Grow Travel System.Graco. UNO2DUO travel system.Chicco. Mini Bravo Plus travel system.Britax. B-Lively & B-safe 35 Travel System.",
+      "source": {
+        "link": "https://www.consumerreports.org/cro/strollers/buying-guide/index.htm",
+        "displayed_link": "www.consumerreports.org : cro : strollers : buying-guidewww.consumerreports.org : cro : strollers : buying-guide",
+        "title": "Best Stroller Buying Guide - Consumer Reports"
+      },
+      "search": {
+        "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=What+is+the+safest+baby+stroller%3F&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Qzmd6BAhoEBk",
+        "title": "What is the safest baby stroller?"
+      },
+      "block_position": 5,
+      "type": "related_questions",
+      "position": 3
+    },
+    {
+      "question": "What baby strollers do celebrities use?",
+      "answer": "Nuna Mixx is a celebrity favorite. Nuna is a popular Dutch baby gear company known for stylish, affordable, and ultra-compact strollers. Celebrities like Gwen Stefani, Kourtney Kardashian and Miranda Kerr have all been spotted pushing around either the demi, tavo, pepp next, or mixx series.",
+      "source": {
+        "link": "https://www.forbes.com/sites/julieloffredi/2019/05/01/stylish-strollers-celebrity-parents-really-use/",
+        "displayed_link": "www.forbes.com : sites : julieloffredi : 2019/05/01 : styl...www.forbes.com : sites : julieloffredi : 2019/05/01 : styl...",
+        "title": "Stylish Strollers And Car Seats Celebrity Parents Really Use - Forbes"
+      },
+      "search": {
+        "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=What+baby+strollers+do+celebrities+use%3F&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Qzmd6BAhoECQ",
+        "title": "What baby strollers do celebrities use?"
+      },
+      "block_position": 5,
+      "type": "related_questions",
+      "position": 4
+    },
+    {
+      "question": "How do I choose a stroller for my newborn?",
+      "answer": "If you're planning to put a newborn into the stroller, look for models that offer a nearly flat recline. Or find a stroller that can easily attach an infant car seat, which helps you move a sleeping baby without drama. Put all the pieces together.",
+      "source": {
+        "link": "https://www.whattoexpect.com/baby-products/strollers/",
+        "displayed_link": "www.whattoexpect.com : baby-products : strollerswww.whattoexpect.com : baby-products : strollers",
+        "title": "Stroller Buying Guide: How to Buy a Baby Stroller - What to Expect"
+      },
+      "search": {
+        "link": "https://www.google.com/search?num=100&gl=us&hl=en&q=How+do+I+choose+a+stroller+for+my+newborn%3F&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4Qzmd6BAhoEC8",
+        "title": "How do I choose a stroller for my newborn?"
+      },
+      "block_position": 5,
+      "type": "related_questions",
+      "position": 5
+    },
+    {
+      "position": 6,
+      "title": "Target",
+      "address": "Phoenix, AZ � In the Christown Spectrum Mall (602) 308-3604",
+      "data_cid": "139698482545248836",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "extensions": [
+        "Open",
+        "Closes 10PM",
+        "(602) 308-3604"
+      ],
+      "rating": 4.2,
+      "reviews": 754,
+      "type": "local_results",
+      "block_position": 20
+    },
+    {
+      "position": 7,
+      "title": "buybuy BABY",
+      "address": "Peoria, AZ � In Arrowhead Palms (623) 499-3857",
+      "data_cid": "4570985748063555813",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "extensions": [
+        "Open",
+        "Closes 9PM",
+        "(623) 499-3857"
+      ],
+      "rating": 3.8,
+      "reviews": 36,
+      "type": "local_results",
+      "block_position": 20
+    },
+    {
+      "position": 8,
+      "title": "Target",
+      "address": "Phoenix, AZ (602) 603-7581",
+      "data_cid": "2611529996972799860",
+      "image": "data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+      "extensions": [
+        "Open",
+        "Closes 10PM",
+        "(602) 603-7581"
+      ],
+      "rating": 3.8,
+      "reviews": 343,
+      "type": "local_results",
+      "block_position": 20
+    },
+    {
+      "title": "TOP 5: Best Baby Stroller 2020",
+      "link": "https://www.youtube.com/watch?v=Rgq1mDgUaYg",
+      "source": "YouTube",
+      "date": "Jan 13, 2020",
+      "date_utc": "2020-01-13T12:00:00.000Z",
+      "block_position": 26,
+      "type": "inline_videos",
+      "position": 9
+    },
+    {
+      "title": "Best Baby Stroller in 2019 - Top 6 Baby Strollers Review",
+      "link": "https://www.youtube.com/watch?v=3vjT1Kiyobo",
+      "source": "YouTube",
+      "date": "Mar 18, 2019",
+      "date_utc": "2019-03-18T12:00:00.000Z",
+      "block_position": 26,
+      "type": "inline_videos",
+      "position": 10
+    },
+    {
+      "title": "Best Strollers of 2020 | UPPAbaby Vista Cruz | Nuna Mixx ...",
+      "link": "https://www.youtube.com/watch?v=-OMSG36BLR4",
+      "source": "YouTube",
+      "date": "Jan 2, 2020",
+      "date_utc": "2020-01-02T12:00:00.000Z",
+      "block_position": 26,
+      "type": "inline_videos",
+      "position": 11
+    },
+    {
+      "position": 12,
+      "title": "Best Baby Strollers of 2020 - Best Strollers - What to Expect",
+      "link": "https://www.whattoexpect.com/baby-products/strollers/best-baby-strollers/",
+      "domain": "www.whattoexpect.com",
+      "answer_box": true,
+      "displayed_link": "www.whattoexpect.com : Products : Strollers",
+      "type": "organic_results"
+    },
+    {
+      "position": 13,
+      "title": "10 Best Strollers of 2020 - Babylist",
+      "link": "https://www.babylist.com/hello-baby/best-strollers",
+      "domain": "www.babylist.com",
+      "displayed_link": "www.babylist.com : hello-baby : best-strollers",
+      "snippet": "Jan 9, 2020 - Best Strollers of 2020. A stroller provides a comfy and convenient spot for babyand your things!when you're on the go. Best Strollers of�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Strollers",
+        "baby",
+        "Best Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4ZpNsavCMwQJ:https://www.babylist.com/hello-baby/best-strollers+&cd=9&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.babylist.com/hello-baby/best-strollers+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzAIegQIQBAH",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Best Affordable Strollers Under ...",
+            "link": "https://www.babylist.com/hello-baby/best-budget-strollers"
+          },
+          {
+            "title": "Best Travel Strollers of 2020",
+            "link": "https://www.babylist.com/hello-baby/best-travel-strollers"
+          },
+          {
+            "title": "Nuna MIXX Stroller",
+            "link": "https://www.babylist.com/gp/nuna-2019-mixx-stroller/14914"
+          }
+        ]
+      },
+      "block_position": 2,
+      "type": "organic_results"
+    },
+    {
+      "position": 14,
+      "title": "12 Best Baby Strollers 2020 - Top Rated Stroller Reviews",
+      "link": "https://www.goodhousekeeping.com/childrens-products/baby-stroller-reviews/g2469/best-baby-strollers/",
+      "domain": "www.goodhousekeeping.com",
+      "displayed_link": "www.goodhousekeeping.com : childrens-products : be...",
+      "snippet": "Mar 13, 2020 - Best Baby Strollers of 2020, According to Parenting Experts. amazon. As a new (or soon-to-be) mom or dad, you've got a lot on your to-do list,�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pcxPo2cJT_cJ:https://www.goodhousekeeping.com/childrens-products/baby-stroller-reviews/g2469/best-baby-strollers/+&cd=10&hl=en&ct=clnk&gl=us",
+      "block_position": 3,
+      "type": "organic_results"
+    },
+    {
+      "position": 15,
+      "title": "The Best Strollers of 2020 | BabyGearLab",
+      "link": "https://www.babygearlab.com/topics/getting-around/best-stroller",
+      "domain": "www.babygearlab.com",
+      "displayed_link": "www.babygearlab.com : Strollers",
+      "snippet": "Jul 31, 2020 - Best Overall Baby Stroller. UPPAbaby Cruz. Editors' Choice Award.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:x6hcqf54JnEJ:https://www.babygearlab.com/topics/getting-around/best-stroller+&cd=11&hl=en&ct=clnk&gl=us",
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "The Best Stroller and Car Seat ...",
+            "link": "https://www.babygearlab.com/topics/getting-around/best-stroller-and-car-seat-combo"
+          },
+          {
+            "title": "UPPAbaby Cruz",
+            "link": "https://www.babygearlab.com/reviews/getting-around/full-size-stroller/uppababy-cruz"
+          },
+          {
+            "title": "UPPAbaby Vista",
+            "link": "https://www.babygearlab.com/reviews/getting-around/full-size-stroller/uppababy-vista"
+          }
+        ]
+      },
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8
+          },
+          "extensions": [
+            "Rating: 4.8",
+            "Review by Juliet Spurrier, MD"
+          ]
+        }
+      },
+      "block_position": 4,
+      "type": "organic_results"
+    },
+    {
+      "position": 16,
+      "title": "14 Best Strollers - The Bump",
+      "link": "https://www.thebump.com/a/best-strollers",
+      "domain": "www.thebump.com",
+      "displayed_link": "www.thebump.com : best-strollers",
+      "snippet": "Looking for the perfect stroller for you and baby? Scroll the best baby strollers that offer something for every kind of family.",
+      "prerender": false,
+      "snippet_matched": [
+        "best baby strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KEeUaQr2y-4J:https://www.thebump.com/a/best-strollers+&cd=20&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.thebump.com/a/best-strollers+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzATegQILxAH",
+      "block_position": 6,
+      "type": "organic_results"
+    },
+    {
+      "position": 17,
+      "title": "Amazon Best Sellers: Best Baby Strollers - Amazon.com",
+      "link": "https://www.amazon.com/Best-Sellers-Baby-Strollers/zgbs/baby-products/166842011",
+      "domain": "www.amazon.com",
+      "displayed_link": "www.amazon.com : zgbs : baby-products",
+      "snippet": "Best Sellers in Baby Strollers. #1.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VxY9dFLseT8J:https://www.amazon.com/Best-Sellers-Baby-Strollers/zgbs/baby-products/166842011+&cd=21&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.amazon.com/Best-Sellers-Baby-Strollers/zgbs/baby-products/166842011+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzAUegQIFhAH",
+      "block_position": 7,
+      "type": "organic_results"
+    },
+    {
+      "position": 18,
+      "title": "Best Strollers of 2020 | Parents",
+      "link": "https://www.parents.com/baby/gear/strollers/best-baby-strollers/",
+      "domain": "www.parents.com",
+      "displayed_link": "www.parents.com : Babies : Gear : Strollers",
+      "snippet": "Apr 1, 2020 - Buying a baby stroller is a huge decisionbut we've got some great options. Here are new models and updates of our favorite strollers for�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VpRbdGh9ZB8J:https://www.parents.com/baby/gear/strollers/best-baby-strollers/+&cd=22&hl=en&ct=clnk&gl=us",
+      "block_position": 8,
+      "type": "organic_results"
+    },
+    {
+      "position": 19,
+      "title": "The Best Newborn Strollers of 2020 - Parenting Pod",
+      "link": "https://parentingpod.com/best-newborn-stroller/",
+      "domain": "parentingpod.com",
+      "displayed_link": "parentingpod.com : best-newborn-stroller",
+      "snippet": "Jump to 7) Baby Jogger City Mini GT2 (Best Classic Stroller) - Maclaren's Quest stroller is a lightweight umbrella stroller that can be used for babies�...",
+      "prerender": false,
+      "snippet_matched": [
+        "babies"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:zsFJYt2yC8wJ:https://parentingpod.com/best-newborn-stroller/+&cd=26&hl=en&ct=clnk&gl=us",
+      "block_position": 21,
+      "type": "organic_results"
+    },
+    {
+      "position": 20,
+      "title": "Best Stroller Buying Guide - Consumer Reports",
+      "link": "https://www.consumerreports.org/cro/strollers/buying-guide/index.htm",
+      "domain": "www.consumerreports.org",
+      "displayed_link": "www.consumerreports.org : ... : Strollers",
+      "snippet": "Also known as modular strollers, these allow you to adapt the stroller to suit the changing needs of a growing child. Pros: Use it from the first day of your baby's life,�...",
+      "prerender": false,
+      "snippet_matched": [
+        "strollers",
+        "baby's"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-uEEe-zS7l8J:https://www.consumerreports.org/cro/strollers/buying-guide/index.htm+&cd=27&hl=en&ct=clnk&gl=us",
+      "block_position": 22,
+      "type": "organic_results"
+    },
+    {
+      "position": 21,
+      "title": "11 Best Baby Strollers of 2020 | Healthline Parenthood",
+      "link": "https://www.healthline.com/health/baby/best-baby-strollers-2020",
+      "domain": "www.healthline.com",
+      "displayed_link": "www.healthline.com : health : best-baby-strollers-2020",
+      "snippet": "Apr 24, 2020 - Best baby strollers. Best stroller for newborns: Baby Trend Snap-N-Go EX Universal Infant Car Seat Carrier; Best stroller with car seat combo:�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best baby strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hMwT_0hmc5QJ:https://www.healthline.com/health/baby/best-baby-strollers-2020+&cd=28&hl=en&ct=clnk&gl=us",
+      "block_position": 23,
+      "type": "organic_results"
+    },
+    {
+      "position": 22,
+      "title": "The 13 Best Baby Strollers For 2020 at Every Price Point ...",
+      "link": "https://www.popsugar.com/family/Best-Strollers-2020-45482898",
+      "domain": "www.popsugar.com",
+      "displayed_link": "www.popsugar.com : family : Best-Strollers-2020-454...",
+      "snippet": "We've Done All the Work For You  Here Are the 13 Best Strollers For 2020. As POPSUGAR editors, we independently select and write about stuff we love and�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1XqX8W66-LEJ:https://www.popsugar.com/family/Best-Strollers-2020-45482898+&cd=29&hl=en&ct=clnk&gl=us",
+      "block_position": 24,
+      "type": "organic_results"
+    },
+    {
+      "position": 23,
+      "title": "Best Strollers of 2020 | Strolleria",
+      "link": "https://strolleria.com/blogs/news/best-strollers-of-2020",
+      "domain": "strolleria.com",
+      "displayed_link": "strolleria.com : Product Comparisons",
+      "snippet": "Jan 19, 2020 - Babyzen YOYO � Baby Jogger City Select LUX � Nuna MIXX � Nuna TAVO � UPPAbaby CRUZ � UPPAbaby VISTA. Best Strollers of 2020. Best�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby",
+        "Best Strollers",
+        "Best"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_L3VufQngnIJ:https://strolleria.com/blogs/news/best-strollers-of-2020+&cd=30&hl=en&ct=clnk&gl=us",
+      "block_position": 25,
+      "type": "organic_results"
+    },
+    {
+      "position": 24,
+      "title": "The best strollers in 2020 - Business Insider",
+      "link": "https://www.businessinsider.com/best-stroller",
+      "domain": "www.businessinsider.com",
+      "displayed_link": "www.businessinsider.com : Reviews",
+      "snippet": "Jun 10, 2020 - Getting the right stroller for your baby is important. We tested several strollers to find the best ones you can buy, including Nuna and Ergobaby.",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "strollers",
+        "best"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:V8TY9b_8hgMJ:https://www.businessinsider.com/best-stroller+&cd=41&hl=en&ct=clnk&gl=us",
+      "block_position": 27,
+      "type": "organic_results"
+    },
+    {
+      "position": 25,
+      "title": "The 8 Best Baby Strollers of 2020 - Verywell Family",
+      "link": "https://www.verywellfamily.com/best-baby-strollers-4153782",
+      "domain": "www.verywellfamily.com",
+      "displayed_link": "www.verywellfamily.com : Babies : Gear and Products",
+      "snippet": "The 8 Best Baby Strollers of 2020 � Find the perfect match � Our Top Picks � Best Overall: UPPAbaby G-LUXE Stroller � Best Budget: Kolcraft Cloud Umbrella Stroller.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:uxft5ER-cf8J:https://www.verywellfamily.com/best-baby-strollers-4153782+&cd=42&hl=en&ct=clnk&gl=us",
+      "block_position": 28,
+      "type": "organic_results"
+    },
+    {
+      "position": 26,
+      "title": "The best strollers of 2020 | Tom's Guide",
+      "link": "https://www.tomsguide.com/best-picks/best-strollers",
+      "domain": "www.tomsguide.com",
+      "displayed_link": "www.tomsguide.com : best-picks : best-strollers",
+      "snippet": "Feb 28, 2020 - the best strollers � 1. Baby Jogger City Mini 2 � 2. Thule Urban Glide 2 � 3. Uppababy Cruz � 4. Britax B-Lively � 5. Uppababy Vista � 6. Kolcraft�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best strollers",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4nZh92gHqJIJ:https://www.tomsguide.com/best-picks/best-strollers+&cd=43&hl=en&ct=clnk&gl=us",
+      "block_position": 29,
+      "type": "organic_results"
+    },
+    {
+      "position": 27,
+      "title": "19 Best Strollers 2019 | The Strategist | New York Magazine",
+      "link": "https://nymag.com/strategist/article/best-strollers",
+      "domain": "nymag.com",
+      "displayed_link": "nymag.com : strategist : article : best-strollers",
+      "snippet": "Sep 27, 2019 - To help you choose your baby's first ride, we consulted experts including Saxton, Nazar, and LaBracio, as well as nanny agencies, mommy�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby's"
+      ],
+      "block_position": 30,
+      "type": "organic_results"
+    },
+    {
+      "position": 28,
+      "title": "The Best Strollers for 2020 | Reviews by Wirecutter",
+      "link": "https://www.nytimes.com/wirecutter/reviews/best-strollers/",
+      "domain": "www.nytimes.com",
+      "displayed_link": "www.nytimes.com : Baby & Kid : Baby",
+      "snippet": "Jul 23, 2019 - We've covered over 125 miles testing 13 strollers, and we've found that the Baby Jogger City Mini 2 offers the best combination of features and�...",
+      "prerender": false,
+      "snippet_matched": [
+        "strollers",
+        "Baby",
+        "best"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hBQDoLlkrmQJ:https://www.nytimes.com/wirecutter/reviews/best-strollers/+&cd=45&hl=en&ct=clnk&gl=us",
+      "block_position": 31,
+      "type": "organic_results"
+    },
+    {
+      "position": 29,
+      "title": "The 25 Best Baby Strollers of 2020 - Baby Know How",
+      "link": "https://babyknowhow.com/best-baby-strollers/",
+      "domain": "babyknowhow.com",
+      "displayed_link": "babyknowhow.com : best-baby-strollers",
+      "snippet": "Jul 8, 2020 - The 5 Top-Rated Baby Strollers � Our Top Pick: Summer Infant 3D Lite Convenience Stroller � Our Runner Up Pick: Graco Fastaction Fold Jogger�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xsyvsH2xK1oJ:https://babyknowhow.com/best-baby-strollers/+&cd=46&hl=en&ct=clnk&gl=us",
+      "block_position": 32,
+      "type": "organic_results"
+    },
+    {
+      "position": 30,
+      "title": "Best Full Size Strollers for Baby: Our Top Picks for 2020",
+      "link": "https://www.lucieslist.com/baby-registry-basics/baby-strollers/",
+      "domain": "www.lucieslist.com",
+      "displayed_link": "www.lucieslist.com : baby-registry-basics : baby-strollers",
+      "snippet": "Top 10 Full Size Strollers. Updated February 2020. In this guide: Baby Jogger City Mini; Chicco Viaro; Britax B-Lively; Baby Jogger City Mini GT; Graco Modes�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Strollers",
+        "Baby",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7LcYPvGCuLcJ:https://www.lucieslist.com/baby-registry-basics/baby-strollers/+&cd=47&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.lucieslist.com/baby-registry-basics/baby-strollers/+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzAuegQIOxAH",
+      "block_position": 33,
+      "type": "organic_results"
+    },
+    {
+      "position": 31,
+      "title": "Best Baby Strollers : Target",
+      "link": "https://www.target.com/c/best-baby-strollers/-/N-vjbpd",
+      "domain": "www.target.com",
+      "displayed_link": "www.target.com : Baby : Strollers",
+      "snippet": "Shop Target for Best Baby Strollers you will love at great low prices. Free shipping on orders of $35+ or same-day pick-up in store.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "block_position": 34,
+      "type": "organic_results"
+    },
+    {
+      "position": 32,
+      "title": "The 10 Best Strollers of 2020 | Baby Cribs Central",
+      "link": "https://www.babycribscentral.com/strollers/best-baby-strollers/",
+      "domain": "www.babycribscentral.com",
+      "displayed_link": "www.babycribscentral.com : strollers : best-baby-strollers",
+      "snippet": "The Evenflo Modular Baby Stroller is one of the most versatile and excellent all around baby strollers of 2020 ...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby",
+        "baby strollers"
+      ],
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {},
+          "extensions": [
+            "Jun 30, 2020",
+            "Uploaded by Evenflo Baby"
+          ]
+        }
+      },
+      "block_position": 35,
+      "type": "organic_results"
+    },
+    {
+      "position": 33,
+      "title": "� Best Strollers For 2020 - Essential Guide For Mom & Dad",
+      "link": "https://www.littlebabygear.com/",
+      "domain": "www.littlebabygear.com",
+      "displayed_link": "www.littlebabygear.com",
+      "snippet": "Jump to Baby Jogger City Tour 2 - Baby Jogger City Mini GT can be used from birth thanks to compatibility with many infant car seats. Adapters for Baby�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:wkljgesix4oJ:https://www.littlebabygear.com/+&cd=50&hl=en&ct=clnk&gl=us",
+      "block_position": 36,
+      "type": "organic_results"
+    },
+    {
+      "position": 34,
+      "title": "Pram Bassinet Stroller - Little Baby Gear",
+      "link": "https://www.littlebabygear.com/best-baby-prams/",
+      "domain": "www.littlebabygear.com",
+      "displayed_link": "www.littlebabygear.com : best-baby-prams",
+      "snippet": "Jump to Best Baby Prams & Bassinet Strollers Of 2020 - Best Baby Prams & Bassinet Strollers Of 2020. In this ranking I present you modern prams that�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Prams"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:A5Hf3NEn04QJ:https://www.littlebabygear.com/best-baby-prams/+&cd=51&hl=en&ct=clnk&gl=us",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 5
+          },
+          "extensions": [
+            "Rating: 5",
+            "Review by Zooey Barnett"
+          ]
+        }
+      },
+      "block_position": 37,
+      "type": "organic_results"
+    },
+    {
+      "position": 35,
+      "title": "Best Baby Strollers for 2020 Voted for by Pampers Parents ...",
+      "link": "https://www.pampers.com/en-us/best-baby-products/strollers/best-stroller",
+      "domain": "www.pampers.com",
+      "displayed_link": "www.pampers.com : ... : About Us : Diapers and Wipes",
+      "snippet": "Jun 4, 2020 - In search of the best stroller for your baby? Over 15000 Pampers Parents voted for their favorite strollers to help make choosing the best one�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best",
+        "baby",
+        "strollers",
+        "best"
+      ],
+      "block_position": 38,
+      "type": "organic_results"
+    },
+    {
+      "position": 36,
+      "title": "Best Strollers for 2020: Expert Reviews - Mommyhood101",
+      "link": "https://mommyhood101.com/best-baby-strollers",
+      "domain": "mommyhood101.com",
+      "displayed_link": "mommyhood101.com : best-baby-strollers",
+      "snippet": "Jump to Best Double Stroller: Baby Jogger City Mini GT2 - Best Baby Strollers for 2020 - Best Strollers � 1. Best All-Around Stroller: UppaBaby Cruz�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YIvbL0pNri0J:https://mommyhood101.com/best-baby-strollers+&cd=53&hl=en&ct=clnk&gl=us",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9
+          },
+          "extensions": [
+            "Rating: 4.9",
+            "Review by Tal Ditye, PhD"
+          ]
+        }
+      },
+      "block_position": 39,
+      "type": "organic_results"
+    },
+    {
+      "position": 37,
+      "title": "The 25 Best Infant Strollers of 2020 - Family Living Today",
+      "link": "https://familylivingtoday.com/best-infant-strollers/",
+      "domain": "familylivingtoday.com",
+      "displayed_link": "familylivingtoday.com : best-infant-strollers",
+      "snippet": "Jump to Best Budget Pick: Baby Trend Snap N Go EX Universal Infant ... - If you are expecting to have a new baby in your home, either through�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:XBabCl2KRbUJ:https://familylivingtoday.com/best-infant-strollers/+&cd=54&hl=en&ct=clnk&gl=us",
+      "block_position": 40,
+      "type": "organic_results"
+    },
+    {
+      "position": 38,
+      "title": "Review Of The Best Baby Strollers Today | Baby World",
+      "link": "https://www.beginnerbabycare.com/best-baby-strollers/",
+      "domain": "www.beginnerbabycare.com",
+      "displayed_link": "www.beginnerbabycare.com : best-baby-strollers",
+      "snippet": "Buyer guide to the best pram baby strollers in the market today. Here you will find reviews of infant strollers under 400$.",
+      "prerender": false,
+      "snippet_matched": [
+        "best pram baby strollers",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:B8a0Ve5C6KgJ:https://www.beginnerbabycare.com/best-baby-strollers/+&cd=55&hl=en&ct=clnk&gl=us",
+      "block_position": 41,
+      "type": "organic_results"
+    },
+    {
+      "position": 39,
+      "title": "The top 5 baby strollers of 2020 | BabyCenter",
+      "link": "https://www.babycenter.com/baby-products/strollers-and-travel-systems/best-baby-strollers_40007336",
+      "domain": "www.babycenter.com",
+      "displayed_link": "www.babycenter.com : ... : Strollers & Travel Systems",
+      "snippet": "Jul 7, 2020 - Best strollers of 2020 � Stroller basics � Quick look � UPPAbaby Vista V2 Stroller � Britax B-Ready G3 Stroller � Baby Jogger City Mini 2 Stroller � Chicco�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best strollers",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yk5lxrU3sfkJ:https://www.babycenter.com/baby-products/strollers-and-travel-systems/best-baby-strollers_40007336+&cd=56&hl=en&ct=clnk&gl=us",
+      "block_position": 42,
+      "type": "organic_results"
+    },
+    {
+      "position": 40,
+      "title": "Best Baby Strollers - Pinterest",
+      "link": "https://www.pinterest.com/gbadamositoyin/best-baby-strollers/",
+      "domain": "www.pinterest.com",
+      "displayed_link": "www.pinterest.com : gbadamositoyin : best-baby-strollers",
+      "snippet": "Apr 26, 2018 - Explore Gbadamosi Toyin's board \"Best baby strollers\", followed by 820 people on Pinterest. See more ideas about Baby strollers, Best baby�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best baby strollers"
+      ],
+      "block_position": 43,
+      "type": "organic_results"
+    },
+    {
+      "position": 41,
+      "title": "The Best Strollers of 2020 - Reviewed Parenting",
+      "link": "https://www.reviewed.com/parenting/best-right-now/the-best-strollers",
+      "domain": "www.reviewed.com",
+      "displayed_link": "www.reviewed.com : parenting : best-right-now : the-...",
+      "snippet": "Jul 24, 2020 - These are the best strollers we tested ranked, in order. Baby Jogger City Mini GT2; Born Free Liva; Uppa Baby Vista; Mockingbird; Lalo Daily�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best strollers",
+        "Baby",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NjVTewmwoJ8J:https://www.reviewed.com/parenting/best-right-now/the-best-strollers+&cd=58&hl=en&ct=clnk&gl=us",
+      "block_position": 44,
+      "type": "organic_results"
+    },
+    {
+      "position": 42,
+      "title": "Best Baby Strollers On Sale | Car Seat Stroller | Toddler ...",
+      "link": "https://www.newbabywish.com/collections/strollers",
+      "domain": "www.newbabywish.com",
+      "displayed_link": "www.newbabywish.com : collections : strollers",
+      "snippet": "Buy Best Baby Strollers online, Choose Toddler Stroller Including Umbrella Stroller, 3 in 1 Stroller, Car Seat Stroller, Bassinet Stroller, Car Seat and Stroller�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sZ3L_J2JylsJ:https://www.newbabywish.com/collections/strollers+&cd=59&hl=en&ct=clnk&gl=us",
+      "block_position": 45,
+      "type": "organic_results"
+    },
+    {
+      "position": 43,
+      "title": "The Best Baby Strollers of 2020 - Red Tricycle",
+      "link": "https://redtri.com/bump-baby/the-best-strollers-this-year/",
+      "domain": "redtri.com",
+      "displayed_link": "redtri.com : bump-baby : the-best-strollers-this-year",
+      "snippet": "Jun 19, 2020 - The Best Strollers for Every Lifestyle � Delta Children Strollers � Joolz Aer Stroller � Mockingbird Single-to-Double Stroller � Contours Bitsy Elite�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Strollers",
+        "Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ko1VGzeYk1gJ:https://redtri.com/bump-baby/the-best-strollers-this-year/+&cd=60&hl=en&ct=clnk&gl=us",
+      "block_position": 46,
+      "type": "organic_results"
+    },
+    {
+      "position": 44,
+      "title": "Best Baby Strollers 2020: Graco, Chicco, Britax - Parenting",
+      "link": "https://www.parenting.com/gear/strollers/best-baby-strollers/",
+      "domain": "www.parenting.com",
+      "displayed_link": "www.parenting.com : gear : best-baby-strollers",
+      "snippet": "The best baby strollers to suit your family, from Graco, Chicco, Britax and more.",
+      "prerender": false,
+      "snippet_matched": [
+        "best baby strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:dijsCdrFl6cJ:https://www.parenting.com/gear/strollers/best-baby-strollers/+&cd=61&hl=en&ct=clnk&gl=us",
+      "block_position": 47,
+      "type": "organic_results"
+    },
+    {
+      "position": 45,
+      "title": "The 14 Best New Strollers for Working Moms in 2020 ...",
+      "link": "https://www.workingmother.com/best-new-strollers-working-moms",
+      "domain": "www.workingmother.com",
+      "displayed_link": "www.workingmother.com : best-new-strollers-working...",
+      "snippet": "Jan 14, 2020 - For moms who want their stroller to have a little more room for baby. Uppababy. Uppababy's popular workhorse strollers, the Vista and the Cruz,�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:w1Fzo2dtUzMJ:https://www.workingmother.com/best-new-strollers-working-moms+&cd=62&hl=en&ct=clnk&gl=us",
+      "block_position": 48,
+      "type": "organic_results"
+    },
+    {
+      "position": 46,
+      "title": "Best Baby Strollers (Updated 2020) - BabyGaga",
+      "link": "https://www.babygaga.com/best-baby-stroller/",
+      "domain": "www.babygaga.com",
+      "displayed_link": "www.babygaga.com : best-baby-stroller",
+      "snippet": "Jun 16, 2020 - Best Baby Strollers (Updated 2020) � 9.77/10 1. Premium pick: UPPAbaby Vista V2 Stroller � 9.65/10 2. Editors choice: Chicco Bravo LE Trio�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:--Hsc3JLldwJ:https://www.babygaga.com/best-baby-stroller/+&cd=63&hl=en&ct=clnk&gl=us",
+      "block_position": 49,
+      "type": "organic_results"
+    },
+    {
+      "position": 47,
+      "title": "The 10 Best Luxury Strollers to Buy 2020 - LittleOneMag",
+      "link": "https://littleonemag.com/best-luxury-strollers/",
+      "domain": "littleonemag.com",
+      "displayed_link": "littleonemag.com : best-luxury-strollers",
+      "snippet": "Jump to Belecoo Convertible Baby Stroller - Baby strollers are sold in a variety of styles. Luxury strollers are a stylish way to take your newborn to places and�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby strollers",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:w_i8r9a5O1wJ:https://littleonemag.com/best-luxury-strollers/+&cd=64&hl=en&ct=clnk&gl=us",
+      "block_position": 50,
+      "type": "organic_results"
+    },
+    {
+      "position": 48,
+      "title": "Best Stroller Brands - Albee Baby",
+      "link": "https://www.albeebaby.com/best-stroller-brands.html",
+      "domain": "www.albeebaby.com",
+      "displayed_link": "www.albeebaby.com : best-stroller-brands",
+      "snippet": "Best Stroller Brands. BabyHome � Baby Jogger � Britax � Bugaboo � Bumbleride � Chicco � Combi � The First Years � Graco � Hauck � Inglesina � Joovy � Maclaren.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RTJKI5nxB2gJ:https://www.albeebaby.com/best-stroller-brands.html+&cd=65&hl=en&ct=clnk&gl=us",
+      "block_position": 51,
+      "type": "organic_results"
+    },
+    {
+      "position": 49,
+      "title": "2 Best Baby Strollers  Reviews & Buying Guide - My ...",
+      "link": "https://mynewbornguide.com/best-baby-strollers/",
+      "domain": "mynewbornguide.com",
+      "displayed_link": "mynewbornguide.com : best-baby-strollers",
+      "snippet": "Furthermore, strollers can benefit your baby because it can help fussy babies to fall asleep easily. This is due to the fact that your baby will be exposed to fresh air.",
+      "prerender": false,
+      "snippet_matched": [
+        "strollers",
+        "baby",
+        "babies",
+        "baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MeTwE9OWX_wJ:https://mynewbornguide.com/best-baby-strollers/+&cd=66&hl=en&ct=clnk&gl=us",
+      "block_position": 52,
+      "type": "organic_results"
+    },
+    {
+      "position": 50,
+      "title": "10 Best Baby Strollers For All Ages - Pretty Designs",
+      "link": "https://www.prettydesigns.com/10-best-baby-strollers-for-all-ages/",
+      "domain": "www.prettydesigns.com",
+      "displayed_link": "www.prettydesigns.com : Baby",
+      "snippet": "10 Best Baby Strollers For All Ages. Jennifer. ADVERTISMENT. A new baby means a new set of wheels nope not a new car. Although, that�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BHEU-UpDxfAJ:https://www.prettydesigns.com/10-best-baby-strollers-for-all-ages/+&cd=67&hl=en&ct=clnk&gl=us",
+      "block_position": 53,
+      "type": "organic_results"
+    },
+    {
+      "position": 51,
+      "title": "10 Best Baby Strollers Every Mom Would Love To Have",
+      "link": "https://www.lifehack.org/articles/lifestyle/10-best-baby-strollers-every-mom-would-love-have.html",
+      "domain": "www.lifehack.org",
+      "displayed_link": "www.lifehack.org : articles : lifestyle : 10-best-baby-st...",
+      "snippet": "10 Best Baby Strollers Every Mom Would Love To Have � 1. 4Moms Origami Stroller � 2. BOB Revolution SE � 3. Quinny Zapp � 4. Liteway Plus � 5. Jeep Cherokee�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:QK9LxOmZV-QJ:https://www.lifehack.org/articles/lifestyle/10-best-baby-strollers-every-mom-would-love-have.html+&cd=68&hl=en&ct=clnk&gl=us",
+      "block_position": 54,
+      "type": "organic_results"
+    },
+    {
+      "position": 52,
+      "title": "The 10 Best Baby Strollers for 2019Blueprint Registry",
+      "link": "https://www.blueprintregistry.com/guides/baby-parenting/baby-product-reviews/best-baby-strollers",
+      "domain": "www.blueprintregistry.com",
+      "displayed_link": "www.blueprintregistry.com : baby-product-reviews : b...",
+      "snippet": "Feb 9, 2018 - WHAT TO LOVE � Narrow frame makes navigating cities and running errands with multiple kids a breeze � Ample storage space � Compatibility with�...",
+      "prerender": false,
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:grE5aZ-VAtkJ:https://www.blueprintregistry.com/guides/baby-parenting/baby-product-reviews/best-baby-strollers+&cd=69&hl=en&ct=clnk&gl=us",
+      "block_position": 55,
+      "type": "organic_results"
+    },
+    {
+      "position": 53,
+      "title": "Best Baby Strollers 2020: Reviews & Buyer's Guide",
+      "link": "https://naturalchildworld.com/baby/best-baby-strollers/",
+      "domain": "naturalchildworld.com",
+      "displayed_link": "naturalchildworld.com : baby : best-baby-strollers",
+      "snippet": "Top 20 Best Baby Strollers 2020. 1. Britax B-Lively Lightweight Stroller. Britax B-Lively Lightweight�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:5ZFEWqDpgv0J:https://naturalchildworld.com/baby/best-baby-strollers/+&cd=70&hl=en&ct=clnk&gl=us",
+      "faq": [
+        {
+          "question": "What Makes The Baby Stroller The Best?",
+          "answer": "The best-rated baby strollers will focus more on the safety, convenience, and comfort of the toddler. When there is a small bump or pothole, it can disturb the sleep of the kid and cause a lot of inconvenience for them. Hence, you must buy the strollers that are travel friendly and come with a suspension system."
+        },
+        {
+          "question": "What Is The Best Size To Buy A Baby Stroller?",
+          "answer": "When you are planning to buy the stroller, you must ensure that it is a perfect fit for your baby. When you are going for shopping, you can take the kids along with you. There are baby strollers that can accommodate the kids of up to 25 kgs of weight, i.e., up to 3 years of age. You must buy the stroller based on the age of your kid."
+        }
+      ],
+      "block_position": 56,
+      "type": "organic_results"
+    },
+    {
+      "position": 54,
+      "title": "Best Strollers for Babies and Toddlers | Fatherly",
+      "link": "https://www.fatherly.com/gear/best-strollers/",
+      "domain": "www.fatherly.com",
+      "displayed_link": "www.fatherly.com : Gear",
+      "snippet": "Mar 10, 2020 - If you're looking for a baby stroller, these are the best double strollers, umbrella strollers, jogging strollers, and car seat stroller combo.",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "best",
+        "strollers",
+        "strollers",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ej8ONc6TGGYJ:https://www.fatherly.com/gear/best-strollers/+&cd=71&hl=en&ct=clnk&gl=us",
+      "block_position": 57,
+      "type": "organic_results"
+    },
+    {
+      "position": 55,
+      "title": "The Best Strollers for Kids - Baby Bargains",
+      "link": "https://www.babybargains.com/category/the-best-strollers-for-kids/",
+      "domain": "www.babybargains.com",
+      "displayed_link": "www.babybargains.com : category : the-best-strollers-f...",
+      "snippet": "The Best Strollers for Kids. Strollers, like car seats, have multiple uses. Our objective, with this category, is to help parents find the stroller that fit.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Strollers",
+        "Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:RR67E3-ixw0J:https://www.babybargains.com/category/the-best-strollers-for-kids/+&cd=72&hl=en&ct=clnk&gl=us",
+      "block_position": 58,
+      "type": "organic_results"
+    },
+    {
+      "position": 56,
+      "title": "15 Best Baby Strollers - MomJunction",
+      "link": "https://www.momjunction.com/articles/best-baby-strollers_00359278/",
+      "domain": "www.momjunction.com",
+      "displayed_link": "www.momjunction.com : Products",
+      "snippet": "May 18, 2020 - 15 Best Strollers Of 2019 � 1. Graco Fastaction Fold Jogger Click Connect Stroller � 2. Disney Umbrella Stroller with Canopy � 3. Graco Modes Duo�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:KO0wj0_DgyYJ:https://www.momjunction.com/articles/best-baby-strollers_00359278/+&cd=73&hl=en&ct=clnk&gl=us",
+      "block_position": 59,
+      "type": "organic_results"
+    },
+    {
+      "position": 57,
+      "title": "Best Car Seat and Stroller Combo 2020 - Baby Travel Systems",
+      "link": "https://bestcarseathub.com/best-car-seat-stroller-combo-travel-systems/",
+      "domain": "bestcarseathub.com",
+      "displayed_link": "bestcarseathub.com : best-car-seat-stroller-combo-trave...",
+      "snippet": "Feb 27, 2020 - Types of Baby Strollers with Car Seats. There are a few different types of car seat & stroller combos on the market today. You can certainly mix�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Uk7Oma5_5XsJ:https://bestcarseathub.com/best-car-seat-stroller-combo-travel-systems/+&cd=74&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://bestcarseathub.com/best-car-seat-stroller-combo-travel-systems/+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzBJegQIVxAH",
+      "block_position": 60,
+      "type": "organic_results"
+    },
+    {
+      "position": 58,
+      "title": "Best Baby Strollers for Toddlers and Infants - Ideal Baby & Kids",
+      "link": "https://www.idealbaby.com/baby-strollers.html?locale=en_us",
+      "domain": "www.idealbaby.com",
+      "displayed_link": "www.idealbaby.com : Baby Strollers",
+      "snippet": "Travel stroller systems give you the flexibility to go from car seat to stroller without fuss. We carry strollers and travel systems from Peg Perego, Baby Jogger, Britax,�...",
+      "prerender": false,
+      "snippet_matched": [
+        "strollers",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yzZnKhnAFc0J:https://www.idealbaby.com/baby-strollers.html%3Flocale%3Den_us+&cd=75&hl=en&ct=clnk&gl=us",
+      "block_position": 61,
+      "type": "organic_results"
+    },
+    {
+      "position": 59,
+      "title": "Chick Picks: The Best Strollers for City Moms | Baby Chick",
+      "link": "https://www.baby-chick.com/chick-picks-best-strollers-for-city-moms/",
+      "domain": "www.baby-chick.com",
+      "displayed_link": "www.baby-chick.com : chick-picks-best-strollers-for-ci...",
+      "snippet": "Chick Picks: The Best Strollers for City Moms. chick picks. by Nina Spears. The Baby Chick. shares.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Strollers",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:JoR1jjxgT3UJ:https://www.baby-chick.com/chick-picks-best-strollers-for-city-moms/+&cd=76&hl=en&ct=clnk&gl=us",
+      "block_position": 62,
+      "type": "organic_results"
+    },
+    {
+      "position": 60,
+      "title": "Best Baby Strollers (2020) | BABY BLOG - The Changing Tables",
+      "link": "https://bestchangingtables.com/best-baby-strollers/",
+      "domain": "bestchangingtables.com",
+      "displayed_link": "bestchangingtables.com : best-baby-strollers",
+      "snippet": "Best Baby Strollers (2020). Pick the best baby stroller to ensure the highest comfort for your baby. By. Julie. -. October 11,�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sLtpHsLZcMMJ:https://bestchangingtables.com/best-baby-strollers/+&cd=77&hl=en&ct=clnk&gl=us",
+      "block_position": 63,
+      "type": "organic_results"
+    },
+    {
+      "position": 61,
+      "title": "Top 10 Best Baby Strollers With Car Seat in 2020 Review ...",
+      "link": "https://www.easygetproduct.com/best-baby-strollers-with-car-seat/",
+      "domain": "www.easygetproduct.com",
+      "displayed_link": "www.easygetproduct.com : Baby Products",
+      "snippet": "Top 10 Best Baby Strollers with Car Seat in 2020 Reviews | Guide � #10. Hot Mom New Baby Stroller with Car Seat � #9. Hot Mom Infant Bassinet 2-In-1 Toddler�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:AXAyrEa8r0oJ:https://www.easygetproduct.com/best-baby-strollers-with-car-seat/+&cd=78&hl=en&ct=clnk&gl=us",
+      "block_position": 64,
+      "type": "organic_results"
+    },
+    {
+      "position": 62,
+      "title": "The Best Baby Strollers of 2020  Wishlisted.com",
+      "link": "https://www.wishlisted.com/the-best-baby-strollers/",
+      "domain": "www.wishlisted.com",
+      "displayed_link": "www.wishlisted.com : the-best-baby-strollers",
+      "snippet": "Jul 17, 2020 - This was the simplest assembly ever. The stroller is sturdy, fashionable, comfortable, lightweight, and so easy to maneuver. Best Double Stroller�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PrfgP2dOxdQJ:https://www.wishlisted.com/the-best-baby-strollers/+&cd=79&hl=en&ct=clnk&gl=us",
+      "block_position": 65,
+      "type": "organic_results"
+    },
+    {
+      "position": 63,
+      "title": "13 Best Baby Doll Strollers (2020 Reviews) - Mom Loves Best",
+      "link": "https://momlovesbest.com/baby-doll-strollers",
+      "domain": "momlovesbest.com",
+      "displayed_link": "momlovesbest.com : ... : Playtime & Toys",
+      "snippet": "3 days ago - The Best Baby Doll Strollers of 2020. As you head out on the hunt for a baby doll stroller, you will come across many varieties. To make your�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby",
+        "Strollers",
+        "baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:yxqu0CH7OHcJ:https://momlovesbest.com/baby-doll-strollers+&cd=80&hl=en&ct=clnk&gl=us",
+      "block_position": 66,
+      "type": "organic_results"
+    },
+    {
+      "position": 64,
+      "title": "Best Jogging Strollers | Running Strollers 2020 - Runner's World",
+      "link": "https://www.runnersworld.com/gear/a22012228/best-jogging-strollers/",
+      "domain": "www.runnersworld.com",
+      "displayed_link": "www.runnersworld.com : gear : best-jogging-strollers",
+      "snippet": "Jun 16, 2020 - Other models will accommodate your baby's car seat for extra assurance. Larger Wheels. Don't even think about running with that City Mini you�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby's"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:PkBOsrOmoBIJ:https://www.runnersworld.com/gear/a22012228/best-jogging-strollers/+&cd=81&hl=en&ct=clnk&gl=us",
+      "block_position": 67,
+      "type": "organic_results"
+    },
+    {
+      "position": 65,
+      "title": "The Best Lightweight Travel Strollers Compared | Travels with ...",
+      "link": "https://travelswithbaby.com/blog/gear-best-lightweight-travel-strollers/",
+      "domain": "travelswithbaby.com",
+      "displayed_link": "travelswithbaby.com : blog : gear-best-lightweight-tra...",
+      "snippet": "May 12, 2020 - Best lightweight travel strollers for baby or toddler ... strollers for travel & with more tips for flying with babies and toddlers linked below.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "strollers",
+        "baby",
+        "strollers",
+        "babies"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MOvzypeFOhgJ:https://travelswithbaby.com/blog/gear-best-lightweight-travel-strollers/+&cd=82&hl=en&ct=clnk&gl=us",
+      "block_position": 68,
+      "type": "organic_results"
+    },
+    {
+      "position": 66,
+      "title": "Top 10 Best Baby Strollers Reviews 2020 - Buyers Guide",
+      "link": "https://babystrollerhome.com/best-baby-strollers/",
+      "domain": "babystrollerhome.com",
+      "displayed_link": "babystrollerhome.com : best-baby-strollers",
+      "snippet": "Baby stroller is one of the best baby items to carry them. If you are looking for the best baby strollers then this best stroller for baby review is for you.",
+      "prerender": false,
+      "snippet_matched": [
+        "best baby strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1OwuqO7hMDYJ:https://babystrollerhome.com/best-baby-strollers/+&cd=83&hl=en&ct=clnk&gl=us",
+      "block_position": 69,
+      "type": "organic_results"
+    },
+    {
+      "position": 67,
+      "title": "Stroller safety: Tips for parents - Mayo Clinic",
+      "link": "https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/stroller-safety/art-20043967",
+      "domain": "www.mayoclinic.org",
+      "displayed_link": "www.mayoclinic.org : stroller-safety : art-20043967",
+      "snippet": "Jul 10, 2020 - With so many designs and types of strollers, however, how do you choose? Understand how to pick the best stroller for your baby and important�...",
+      "prerender": false,
+      "snippet_matched": [
+        "strollers",
+        "best",
+        "baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Cc666oD8PVsJ:https://www.mayoclinic.org/healthy-lifestyle/infant-and-toddler-health/in-depth/stroller-safety/art-20043967+&cd=84&hl=en&ct=clnk&gl=us",
+      "block_position": 70,
+      "type": "organic_results"
+    },
+    {
+      "position": 68,
+      "title": ">G Best Baby Stroller [2020 Reviews] " MovingBabies",
+      "link": "https://movingbabies.com/best-strollers/",
+      "domain": "movingbabies.com",
+      "displayed_link": "movingbabies.com : best-strollers",
+      "snippet": "The Top 5 Best Baby Strollers Reviewed in Detail � #01. BOB Revolution Flex 2.0 Jogging Stroller � #02. Graco LiteRider Click Connect Travel System � #03. Pockit�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:l81_-KC6OHQJ:https://movingbabies.com/best-strollers/+&cd=85&hl=en&ct=clnk&gl=us",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.9,
+            "reviews": 21
+          },
+          "extensions": [
+            "Rating: 4.9",
+            "21 reviews"
+          ]
+        }
+      },
+      "block_position": 71,
+      "type": "organic_results"
+    },
+    {
+      "position": 69,
+      "title": "The Stroller Site: Best Baby Strollers and Reviews",
+      "link": "https://www.thestrollersite.com/",
+      "domain": "www.thestrollersite.com",
+      "displayed_link": "www.thestrollersite.com",
+      "snippet": "The ultimate guide to finding the best strollers for your family. Comparison charts, baby stroller reviews, double strollers, jogging strollers by moms.",
+      "prerender": false,
+      "snippet_matched": [
+        "best strollers",
+        "baby",
+        "strollers",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LnJ-zGpED68J:https://www.thestrollersite.com/+&cd=86&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.thestrollersite.com/+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzBVegQIEhAF",
+      "block_position": 72,
+      "type": "organic_results"
+    },
+    {
+      "position": 70,
+      "title": "10 Best Baby Travel System Strollers For 2020 - Mominformed",
+      "link": "https://mominformed.com/10-best-baby-travel-system-strollers-for-2019/",
+      "domain": "mominformed.com",
+      "displayed_link": "mominformed.com : 10-best-baby-travel-system-strolle...",
+      "snippet": "Read our in-depth review of 10 Best Baby Travel System Strollers. By evaluating multiple criteria we determine the best stroller traveling with babies and infants.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby",
+        "Strollers",
+        "best",
+        "babies"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:at2_0NbHsgQJ:https://mominformed.com/10-best-baby-travel-system-strollers-for-2019/+&cd=87&hl=en&ct=clnk&gl=us",
+      "block_position": 73,
+      "type": "organic_results"
+    },
+    {
+      "position": 71,
+      "title": "Best City Stroller - A Guide to Urban Strollers | The Tot",
+      "link": "https://www.thetot.com/baby/a-guide-to-the-best-city-strollers/",
+      "domain": "www.thetot.com",
+      "displayed_link": "www.thetot.com : baby : a-guide-to-the-best-city-stroll...",
+      "snippet": "Best Strollers for City Living. If you want to zip effortlessly down busy sidewalks and squeeze into crowded caf�s like you used to B.B. (before baby), you need a�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Strollers",
+        "baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_iQHWPOL6t0J:https://www.thetot.com/baby/a-guide-to-the-best-city-strollers/+&cd=88&hl=en&ct=clnk&gl=us",
+      "block_position": 74,
+      "type": "organic_results"
+    },
+    {
+      "position": 72,
+      "title": "Best Jogging Strollers for Moms Who Love to Run | Shape",
+      "link": "https://www.shape.com/fitness/gear/best-jogging-strollers",
+      "domain": "www.shape.com",
+      "displayed_link": "www.shape.com : Fitness : Workout Gear",
+      "snippet": "Note: Make sure both you and baby are cleared for this activity. Generally, around eight months is when babies are developed enough to go on a jogging stroller�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "babies"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:UxtRZvBPh_QJ:https://www.shape.com/fitness/gear/best-jogging-strollers+&cd=89&hl=en&ct=clnk&gl=us",
+      "block_position": 75,
+      "type": "organic_results"
+    },
+    {
+      "position": 73,
+      "title": "Best Baby Strollers With A Car Seat - Buy A Baby Stroller",
+      "link": "https://www.babiescarrier.com/best-baby-strollers-with-car-seat/",
+      "domain": "www.babiescarrier.com",
+      "displayed_link": "www.babiescarrier.com : best-baby-strollers-with-car-seat",
+      "snippet": "We have found the best baby strollers with car seats that would serve their purpose most effectively. Our-Top-3-Picks-For-Best-Baby-Strollers-�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best baby strollers",
+        "Best",
+        "Baby",
+        "Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lSF1GcZp5uoJ:https://www.babiescarrier.com/best-baby-strollers-with-car-seat/+&cd=90&hl=en&ct=clnk&gl=us",
+      "block_position": 76,
+      "type": "organic_results"
+    },
+    {
+      "position": 74,
+      "title": "The Best Baby Doll Strollers of 2020 | Experienced Mommy",
+      "link": "https://www.experiencedmommy.com/best-baby-doll-stroller/",
+      "domain": "www.experiencedmommy.com",
+      "displayed_link": "www.experiencedmommy.com : best-baby-doll-stroller",
+      "snippet": "Jul 8, 2020 - The best baby doll strollers help little kids learn important empathy skills and have fun in the process! Find the right stroller for your daughter's�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best baby",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:rFkV2rxiJDUJ:https://www.experiencedmommy.com/best-baby-doll-stroller/+&cd=91&hl=en&ct=clnk&gl=us",
+      "block_position": 77,
+      "type": "organic_results"
+    },
+    {
+      "position": 75,
+      "title": "Strollers - Walmart.com",
+      "link": "https://www.walmart.com/cp/strollers/118134",
+      "domain": "www.walmart.com",
+      "displayed_link": "www.walmart.com : strollers",
+      "snippet": "The best stroller for you will depend on the age and size of your child and how you'll be using the stroller. If you're looking for a stroller for a new baby, you'll�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best",
+        "baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:q-ylH51Fq0gJ:https://www.walmart.com/cp/strollers/118134+&cd=92&hl=en&ct=clnk&gl=us",
+      "block_position": 78,
+      "type": "organic_results"
+    },
+    {
+      "position": 76,
+      "title": "The Best Baby Trend Strollers | SnugBaby.net",
+      "link": "https://snugbaby.net/strollers/best-baby-trend-strollers/",
+      "domain": "snugbaby.net",
+      "displayed_link": "snugbaby.net : strollers : best-baby-trend-strollers",
+      "snippet": "Best Baby Trend Strollers � 1) Baby Trend Falcon Jogger Stroller: � 2) Baby Trend Tri-Fold Mini Stroller, Apple Red: � 3) Baby Trend Xcel Jogger Stroller, Raspberry:.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby",
+        "Strollers",
+        "Baby",
+        "Baby",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EMYE7Q7cQiYJ:https://snugbaby.net/strollers/best-baby-trend-strollers/+&cd=93&hl=en&ct=clnk&gl=us",
+      "rich_snippet": {
+        "top": {
+          "detected_extensions": {
+            "rating": 4.8
+          },
+          "extensions": [
+            "Rating: 4.8",
+            "Review by Jeff and Yvette"
+          ]
+        }
+      },
+      "block_position": 79,
+      "type": "organic_results"
+    },
+    {
+      "position": 77,
+      "title": "Best Baby Running & Jogging Strollers - Pros & Cons, Worth ...",
+      "link": "https://www.moneycrashers.com/best-baby-running-jogging-strollers/",
+      "domain": "www.moneycrashers.com",
+      "displayed_link": "www.moneycrashers.com : best-baby-running-jogging...",
+      "snippet": "If you're an avid runner, learn more about baby jogging strollers, including pros and cons. Find out what the best features are and if they're right for you.",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "strollers",
+        "best"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:h6ppmfCQGuQJ:https://www.moneycrashers.com/best-baby-running-jogging-strollers/+&cd=94&hl=en&ct=clnk&gl=us",
+      "block_position": 80,
+      "type": "organic_results"
+    },
+    {
+      "position": 78,
+      "title": "The NEWEST and BEST strollers of the year! Tax ... - Posh Baby",
+      "link": "https://www.poshbaby.com/collections/double-strollers",
+      "domain": "www.poshbaby.com",
+      "displayed_link": "www.poshbaby.com : collections : double-strollers",
+      "snippet": "We offer all of the best brands like Uppa Baby, Nuna, Bumbleride, Baby Jogger, Stokke, Mountain Buggy and more!",
+      "prerender": false,
+      "snippet_matched": [
+        "best",
+        "Baby",
+        "Baby"
+      ],
+      "block_position": 81,
+      "type": "organic_results"
+    },
+    {
+      "position": 79,
+      "title": "The best Baby Jogger stroller - Chicago Tribune",
+      "link": "https://www.chicagotribune.com/consumer-reviews/sns-bestreviews-baby-the-best-baby-jogger-stroller-20200521-5j7vjyxuzvfuvpq2zkrjcvk2v4-story.html",
+      "domain": "www.chicagotribune.com",
+      "displayed_link": "www.chicagotribune.com : consumer-reviews : sns-bes...",
+      "snippet": "May 21, 2020 - Baby Jogger jogging strollers are also lightweight, have suspension to absorb shocks, and have lockable front wheels to increase safety while�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:y-fss0ry2CcJ:https://www.chicagotribune.com/consumer-reviews/sns-bestreviews-baby-the-best-baby-jogger-stroller-20200521-5j7vjyxuzvfuvpq2zkrjcvk2v4-story.html+&cd=96&hl=en&ct=clnk&gl=us",
+      "block_position": 82,
+      "type": "organic_results"
+    },
+    {
+      "position": 80,
+      "title": "Best Baby Strollers | Top Reviewed in 2020 | BabyGoss.com",
+      "link": "https://babygoss.com/guides/baby-strollers",
+      "domain": "babygoss.com",
+      "displayed_link": "babygoss.com : guides : baby-strollers",
+      "snippet": "The 5 Best Baby Strollers of 2020. Community Curated " Updated 03, 2019. So you're thinking about getting a (new) baby stroller? Maybe you scrolled a little on�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1BvMJdhY3xoJ:https://babygoss.com/guides/baby-strollers+&cd=97&hl=en&ct=clnk&gl=us",
+      "block_position": 83,
+      "type": "organic_results"
+    },
+    {
+      "position": 81,
+      "title": "Different Types of Baby Strollers- The Best For Your Child ...",
+      "link": "https://babystrollerlab.com/different-types-baby-strollers/",
+      "domain": "babystrollerlab.com",
+      "displayed_link": "babystrollerlab.com : different-types-baby-strollers",
+      "snippet": "Different Types of Baby Strollers- The Best For Your Child? � 1 Standard Strollers � 2 Pram/Carriage Type Strollers � 3 Jogging/Running Strollers � 4 Lightweight�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby Strollers",
+        "Best",
+        "Strollers",
+        "Pram",
+        "Strollers",
+        "Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hu54G-uotQ0J:https://babystrollerlab.com/different-types-baby-strollers/+&cd=98&hl=en&ct=clnk&gl=us",
+      "block_position": 84,
+      "type": "organic_results"
+    },
+    {
+      "position": 82,
+      "title": "Checkout the Types of Baby Strollers to Choose the Best ...",
+      "link": "https://sites.google.com/site/amazingoffersdiscounts/checkout-the-types-of-baby-strollers-to-choose-the-best",
+      "domain": "sites.google.com",
+      "displayed_link": "sites.google.com : site : amazingoffersdiscounts : checko...",
+      "snippet": "Whether you're heading to the park or go shopping with your baby, a stroller is a must-have essential. Even, strollers are considered to be parent's best friend.",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "strollers",
+        "best"
+      ],
+      "block_position": 85,
+      "type": "organic_results"
+    },
+    {
+      "position": 83,
+      "title": "Strollers - Best Buy",
+      "link": "https://www.bestbuy.com/site/baby-care/strollers/pcmcat1551377465940.c?id=pcmcat1551377465940",
+      "domain": "www.bestbuy.com",
+      "displayed_link": "www.bestbuy.com : Baby Care",
+      "snippet": "Items 1 - 24 of 24 - Shop at Best Buy for a great selection of strollers including joggers, ... Baby Trend - Skyview Plus Travel System - Bluebell - Front_Zoom.",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "strollers",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_AFds4Xi5VAJ:https://www.bestbuy.com/site/baby-care/strollers/pcmcat1551377465940.c%3Fid%3Dpcmcat1551377465940+&cd=100&hl=en&ct=clnk&gl=us",
+      "block_position": 86,
+      "type": "organic_results"
+    },
+    {
+      "position": 84,
+      "title": "Strollers - Buy Buy Baby",
+      "link": "https://www.buybuybaby.com/store/category/strollers/strollers/32572/",
+      "domain": "www.buybuybaby.com",
+      "displayed_link": "www.buybuybaby.com : store : category : strollers",
+      "snippet": "Products 1 - 24 of 309 - From full-size strollers to jogging strollers and everything in between, explore the ... +. Best Seller ... Baby Jogger� City Mini� GT2 Stroller.",
+      "prerender": false,
+      "snippet_matched": [
+        "strollers",
+        "strollers",
+        "Best",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:VYTowTC_PPAJ:https://www.buybuybaby.com/store/category/strollers/strollers/32572/+&cd=101&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.buybuybaby.com/store/category/strollers/strollers/32572/+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzBkegQIJxAH",
+      "block_position": 87,
+      "type": "organic_results"
+    },
+    {
+      "position": 85,
+      "title": "Top 10 Best Baby Strollers in 2020 - Top Best Pro Review",
+      "link": "https://www.topbestproreview.com/top-10-best-baby-strollers/",
+      "domain": "www.topbestproreview.com",
+      "displayed_link": "www.topbestproreview.com : Baby Toy",
+      "snippet": "Top 10 Best Baby Strollers in 2020 Reviews � 10. Pink Convertible Doll Stroller � 9. Mommy & Me 9318 My First Doll Baby Stroller � 8. ZOE XL1 XTRA Baby Stroller�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:r2lJvX4CkCQJ:https://www.topbestproreview.com/top-10-best-baby-strollers/+&cd=102&hl=en&ct=clnk&gl=us",
+      "block_position": 88,
+      "type": "organic_results"
+    },
+    {
+      "position": 86,
+      "title": "8 Best Baby Stroller of 2020 | OiOiBabyBags",
+      "link": "https://www.oioibabybags.com/best-baby-stroller/",
+      "domain": "www.oioibabybags.com",
+      "displayed_link": "www.oioibabybags.com : best-baby-stroller",
+      "snippet": "If you ask me, there are a lot of baby strollers worthy of your attention, but the best baby stroller does not just catch your eye, it will also capture your heart (and�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby strollers",
+        "best baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:Mhk9TdYb2hEJ:https://www.oioibabybags.com/best-baby-stroller/+&cd=103&hl=en&ct=clnk&gl=us",
+      "block_position": 89,
+      "type": "organic_results"
+    },
+    {
+      "position": 87,
+      "title": "Top 10 Best Baby Strollers 2020 - Parent's Rights",
+      "link": "https://parentsrightsusa.com/top-10-best-strollers/",
+      "domain": "parentsrightsusa.com",
+      "displayed_link": "parentsrightsusa.com : top-10-best-strollers",
+      "snippet": "Jun 6, 2020 - But there are so many different baby stroller brands in the market, how do we know which one is the best? Let's start with the features to look out�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "best"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:6UTSiA80J-EJ:https://parentsrightsusa.com/top-10-best-strollers/+&cd=104&hl=en&ct=clnk&gl=us",
+      "block_position": 90,
+      "type": "organic_results"
+    },
+    {
+      "position": 88,
+      "title": "Best Baby Strollers - ReviewsCast.com",
+      "link": "https://reviewscast.com/best-baby-strollers/",
+      "domain": "reviewscast.com",
+      "displayed_link": "reviewscast.com : best-baby-strollers",
+      "snippet": "Best Baby Strollers � Summer Infant 3D Lite Convenience Stroller  Black � Baby Trend Navigator Double Jogger Stroller, Tropic � Britax 2017 B Agile & B Safe 35�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:BxQLCou1KC0J:https://reviewscast.com/best-baby-strollers/+&cd=105&hl=en&ct=clnk&gl=us",
+      "block_position": 91,
+      "type": "organic_results"
+    },
+    {
+      "position": 89,
+      "title": "The 10 Best Travel Strollers of 2020 - TripSavvy",
+      "link": "https://www.tripsavvy.com/best-travel-strollers-4154155",
+      "domain": "www.tripsavvy.com",
+      "displayed_link": "www.tripsavvy.com : Tech & Gear : Accessories",
+      "snippet": "\"Its convenient features make traveling with your little one a breeze.\" Best Fully Reclining: Jovial Portable Folding Baby Stroller at Amazon. \"Fully adjustable, so�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:aaBltXY5i1YJ:https://www.tripsavvy.com/best-travel-strollers-4154155+&cd=106&hl=en&ct=clnk&gl=us",
+      "block_position": 92,
+      "type": "organic_results"
+    },
+    {
+      "position": 90,
+      "title": "Top 15 Best Chicco Strollers Reviews in 2020",
+      "link": "https://www.babygearsphere.com/chicco-strollers-reviews/",
+      "domain": "www.babygearsphere.com",
+      "displayed_link": "www.babygearsphere.com : chicco-strollers-reviews",
+      "snippet": "Apr 3, 2020 - Chicco stroller users are babies and babies need as much as comfort as they can when using baby products; hence, it is important that strollers�...",
+      "prerender": false,
+      "snippet_matched": [
+        "babies",
+        "babies",
+        "baby",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pxB7lTra3usJ:https://www.babygearsphere.com/chicco-strollers-reviews/+&cd=107&hl=en&ct=clnk&gl=us",
+      "block_position": 93,
+      "type": "organic_results"
+    },
+    {
+      "position": 91,
+      "title": "2020's Top 10 Baby Strollers for Triplets - Reviewed!",
+      "link": "http://besttriplestrollers.com/",
+      "domain": "besttriplestrollers.com",
+      "displayed_link": "besttriplestrollers.com",
+      "snippet": "Top 10 Strollers for Triplets and Tot Trios One of the most difficult baby-product decisions for any parent is picking a stroller that will work best for you.",
+      "prerender": false,
+      "snippet_matched": [
+        "Strollers",
+        "baby",
+        "best"
+      ],
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:ObStRQD8S1QJ:besttriplestrollers.com/+&cd=108&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:besttriplestrollers.com/+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzBregQIFxAF",
+      "block_position": 94,
+      "type": "organic_results"
+    },
+    {
+      "position": 92,
+      "title": "Stroller Safety: Features to Look for When Buying Baby Strollers",
+      "link": "https://www.reviewthis.com/safety-features-best-baby-strollers/",
+      "domain": "www.reviewthis.com",
+      "displayed_link": "www.reviewthis.com : safety-features-best-baby-strollers",
+      "snippet": "Dec 28, 2019 - The best baby strollers have five-point harnesses for safety. A five-point harness has two straps that come down over a baby's shoulders as well�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best baby strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:45ulTgV6uHEJ:https://www.reviewthis.com/safety-features-best-baby-strollers/+&cd=109&hl=en&ct=clnk&gl=us",
+      "block_position": 95,
+      "type": "organic_results"
+    },
+    {
+      "position": 93,
+      "title": "15 Best-Selling Strollers On Amazon For All Your Baby ...",
+      "link": "https://www.romper.com/p/15-best-selling-strollers-on-amazon-for-all-your-baby-toddler-travel-needs-18205174",
+      "domain": "www.romper.com",
+      "displayed_link": "www.romper.com : 15-best-selling-strollers-on-amazon...",
+      "snippet": "Jul 23, 2019 - In the world of baby gear, strollers can be one of the trickiest items to buy. The market is oversaturated with options, and it's hard to know if what�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_6ufQtpW68AJ:https://www.romper.com/p/15-best-selling-strollers-on-amazon-for-all-your-baby-toddler-travel-needs-18205174+&cd=110&hl=en&ct=clnk&gl=us",
+      "block_position": 96,
+      "type": "organic_results"
+    },
+    {
+      "position": 94,
+      "title": "The 5 Best High End Fancy Baby Strollers We Reviewed In 2019",
+      "link": "http://easybabytote.com/strollers-travel-systems/the-5-best-baby-strollers-in-their-class/",
+      "domain": "easybabytote.com",
+      "displayed_link": "easybabytote.com : strollers-travel-systems : the-5-best...",
+      "snippet": "Shopping for a cool stroller but don't know which type to buy? We'll help you choose the best jogging, travel system, and lightweight strollers in stores now!",
+      "prerender": false,
+      "snippet_matched": [
+        "best",
+        "strollers"
+      ],
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:Sct71I7wYW0J:easybabytote.com/strollers-travel-systems/the-5-best-baby-strollers-in-their-class/+&cd=111&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:easybabytote.com/strollers-travel-systems/the-5-best-baby-strollers-in-their-class/+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzBuegQIFBAH",
+      "block_position": 97,
+      "type": "organic_results"
+    },
+    {
+      "position": 95,
+      "title": "A Guide to the Best Strollers for Newborns - Mommy Stroller",
+      "link": "http://www.mommystroller.com/best-strollers-for-newborns/",
+      "domain": "www.mommystroller.com",
+      "displayed_link": "www.mommystroller.com : best-strollers-for-newborns",
+      "snippet": "Jump to Once I find the perfect stroller, is it fine to let my baby nap in it ... - The newborn stage is actually the only stage when allowing your baby to nap in�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby"
+      ],
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:XBl2-pItCisJ:www.mommystroller.com/best-strollers-for-newborns/+&cd=112&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:www.mommystroller.com/best-strollers-for-newborns/+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzBvegQIExAH",
+      "block_position": 98,
+      "type": "organic_results"
+    },
+    {
+      "position": 96,
+      "title": "7 Best All Terrain Strollers: Essential Baby Gear for Outdoorsy ...",
+      "link": "https://www.futurehorizons.net/best-all-terrain-strollers-to-buy",
+      "domain": "www.futurehorizons.net",
+      "displayed_link": "www.futurehorizons.net : best-all-terrain-strollers-to-buy",
+      "snippet": "7 Best All Terrain Strollers: Essential Baby Gear for Outdoorsy Parents � 1. Baby Stroller Bassinet Pram � 2. Costzon Baby Jogger Stroller � 3. Valco Baby Duo X All�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "Strollers",
+        "Baby",
+        "Baby",
+        "Pram",
+        "Baby",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:MlP275Fh8xgJ:https://www.futurehorizons.net/best-all-terrain-strollers-to-buy+&cd=113&hl=en&ct=clnk&gl=us",
+      "block_position": 99,
+      "type": "organic_results"
+    },
+    {
+      "position": 97,
+      "title": "The best strollers, according to experts - The Washington Post",
+      "link": "https://www.washingtonpost.com/lifestyle/on-parenting/the-best-strollers-according-to-experts/2017/09/04/ff9fa812-8131-11e7-ab27-1a21a8e006ab_story.html",
+      "domain": "www.washingtonpost.com",
+      "displayed_link": "www.washingtonpost.com : on-parenting : 2017/09/04",
+      "snippet": "Sep 6, 2017 - ... the blog Cool Mom Picks; the man behind the Baby Guy Gear Guide; and blogger Grace Patton, mother of six, on the best strollers out there.",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby",
+        "best strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1rPyZ97r2QYJ:https://www.washingtonpost.com/lifestyle/on-parenting/the-best-strollers-according-to-experts/2017/09/04/ff9fa812-8131-11e7-ab27-1a21a8e006ab_story.html+&cd=114&hl=en&ct=clnk&gl=us",
+      "block_position": 100,
+      "type": "organic_results"
+    },
+    {
+      "position": 98,
+      "title": "Best Stroller For Baby and Toddler (Reviewed April 2020)",
+      "link": "https://kidnorm.com/best-stroller-for-baby-and-toddler/",
+      "domain": "kidnorm.com",
+      "displayed_link": "kidnorm.com : best-stroller-for-baby-and-toddler",
+      "snippet": "Apr 4, 2020 - The 3-wheel design strollers are the best for jogging and running strollers. You can use a 4-wheel design stroller for normal use. But, the wheels�...",
+      "prerender": false,
+      "snippet_matched": [
+        "strollers",
+        "best",
+        "strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_MB6a71XlBkJ:https://kidnorm.com/best-stroller-for-baby-and-toddler/+&cd=115&hl=en&ct=clnk&gl=us",
+      "block_position": 101,
+      "type": "organic_results"
+    },
+    {
+      "position": 99,
+      "title": "The 6 Best Strollers for Tall Parents in 2020 - By Experts",
+      "link": "https://allmomneeds.com/best-stroller-tall-parent/",
+      "domain": "allmomneeds.com",
+      "displayed_link": "allmomneeds.com : best-stroller-tall-parent",
+      "snippet": "Jump to Baby Jogger City Select Stroller  Best Basic Versatile Jogger ... - Baby Jogger City Select Stroller  Best Basic Versatile Jogger Stroller�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby",
+        "Best"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vO79_n1KDR0J:https://allmomneeds.com/best-stroller-tall-parent/+&cd=116&hl=en&ct=clnk&gl=us",
+      "block_position": 102,
+      "type": "organic_results"
+    },
+    {
+      "position": 100,
+      "title": "Best Baby Strollers of 2019 | Mom.com",
+      "link": "https://mom.com/baby/best-baby-strollers-of-2019",
+      "domain": "mom.com",
+      "displayed_link": "mom.com : baby : best-baby-strollers-of-2019",
+      "snippet": "Oct 29, 2019 - Best Baby Strollers. Various. Strollers are great. They're much easier than carrying non-walkers around all the time and they save us from the�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ND_n2NXYR7MJ:https://mom.com/baby/best-baby-strollers-of-2019+&cd=117&hl=en&ct=clnk&gl=us",
+      "block_position": 103,
+      "type": "organic_results"
+    },
+    {
+      "position": 101,
+      "title": "The Best Baby Strollers, According to You | Outside Online",
+      "link": "https://www.outsideonline.com/2252451/best-baby-strollers-according-reviewers",
+      "domain": "www.outsideonline.com",
+      "displayed_link": "www.outsideonline.com : Running : Gear",
+      "snippet": "Oct 20, 2017 - The Best Baby Strollers, According to You � We crowdsourced the reviews on this expensive piece of gear � Thule Urban Glide ($400) � Graco�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EmkyxYUkRKMJ:https://www.outsideonline.com/2252451/best-baby-strollers-according-reviewers+&cd=118&hl=en&ct=clnk&gl=us",
+      "block_position": 104,
+      "type": "organic_results"
+    },
+    {
+      "position": 102,
+      "title": "10 Best Baby Strollers Of 2020 For Parents' Most Precious ...",
+      "link": "https://www.awebtoknow.com/reviews/best-baby-strollers/",
+      "domain": "www.awebtoknow.com",
+      "displayed_link": "www.awebtoknow.com : Best",
+      "snippet": "Top 10 Baby Strollers Of 2020 Reviewed � 1. Kolcraft Cloud Plus Lightweight Stroller � 2. Summer Infant 3D Lite Convenience Stroller � 3. GB Pockit Lightweight�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:juwbQjZAYUcJ:https://www.awebtoknow.com/reviews/best-baby-strollers/+&cd=119&hl=en&ct=clnk&gl=us",
+      "block_position": 105,
+      "type": "organic_results"
+    },
+    {
+      "position": 103,
+      "title": "10 lightweight strollers that will change the way you travel with ...",
+      "link": "https://www.mother.ly/shop/best-lightweight-stroller-for-travel",
+      "domain": "www.mother.ly",
+      "displayed_link": "www.mother.ly : best-lightweight-stroller-for-travel",
+      "snippet": "Jul 2, 2019 - Looking for the best compact strollers? ... being able to fold a stroller with a baby on your hip is KEY when you're in a stressful situation (think:�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best",
+        "strollers",
+        "baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:descpkRIY-sJ:https://www.mother.ly/shop/best-lightweight-stroller-for-travel+&cd=120&hl=en&ct=clnk&gl=us",
+      "block_position": 106,
+      "type": "organic_results"
+    },
+    {
+      "position": 104,
+      "title": "Best Baby Strollers: Baby Stroller Reviews and Buyers Guide",
+      "link": "https://parent.guide/best-baby-strollers/",
+      "domain": "parent.guide",
+      "displayed_link": "parent.guide : best-baby-strollers",
+      "snippet": "Jul 6, 2018 - Best baby stroller: The overall champ. The best overall baby stroller is the Baby Jogger Citi Mini GT. Its compact, lightweight frame folds quickly�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best baby",
+        "best",
+        "baby",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:SDDe7Xck_PcJ:https://parent.guide/best-baby-strollers/+&cd=121&hl=en&ct=clnk&gl=us",
+      "block_position": 107,
+      "type": "organic_results"
+    },
+    {
+      "position": 105,
+      "title": "Top 10 best baby strollers to buy for newborns : luxury ...",
+      "link": "https://akintrends.com/best-baby-strollers/",
+      "domain": "akintrends.com",
+      "displayed_link": "akintrends.com : best-baby-strollers",
+      "snippet": "Mar 21, 2019 - Top 10 best baby strollers to buy in 2019 � 1. gb Pockit Stroller- (Best Lightweight Stroller) � 2. UPPAbaby Vista Stroller 2018 (Best Stylish Baby�...",
+      "prerender": false,
+      "snippet_matched": [
+        "best baby strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:xddNTp7GPngJ:https://akintrends.com/best-baby-strollers/+&cd=122&hl=en&ct=clnk&gl=us",
+      "block_position": 108,
+      "type": "organic_results"
+    },
+    {
+      "position": 106,
+      "title": "17 Of The Best Baby Strollers You Can Get On Amazon",
+      "link": "https://www.buzzfeed.com/abbykass/best-baby-strollers-you-can-get-on-amazon",
+      "domain": "www.buzzfeed.com",
+      "displayed_link": "www.buzzfeed.com : abbykass : best-baby-strollers-yo...",
+      "snippet": "Jul 26, 2018 - Plus, the three wheels make it easy to navigate any crowded street. Promising review: \"I'm absolutely in love! This is our fourth baby, but it's the�...",
+      "prerender": false,
+      "snippet_matched": [
+        "baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hA8Me3SvXnYJ:https://www.buzzfeed.com/abbykass/best-baby-strollers-you-can-get-on-amazon+&cd=123&hl=en&ct=clnk&gl=us",
+      "block_position": 109,
+      "type": "organic_results"
+    },
+    {
+      "position": 107,
+      "title": "The 13 Best Travel Strollers for 2020 | TravelingMom",
+      "link": "https://www.travelingmom.com/products/best-travel-strollers/",
+      "domain": "www.travelingmom.com",
+      "displayed_link": "www.travelingmom.com : products : best-travel-strollers",
+      "snippet": "Feb 8, 2020 - Got baby, will travel. So, you'll need a travel stroller. Here's a roundup of the best strollers for 2020 to help you choose the right one for you.",
+      "prerender": false,
+      "snippet_matched": [
+        "baby",
+        "best strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:1tD0mqG9VagJ:https://www.travelingmom.com/products/best-travel-strollers/+&cd=124&hl=en&ct=clnk&gl=us",
+      "related_page_link": "https://www.google.com/search?gl=us&hl=en&q=related:https://www.travelingmom.com/products/best-travel-strollers/+best+baby+strollers&sa=X&ved=2ahUKEwjzsO6O-53rAhWd4jgGHbLLBR4QHzB7egQIARAH",
+      "block_position": 110,
+      "type": "organic_results"
+    },
+    {
+      "position": 108,
+      "title": "Baby Gear: Best Strollers, Cribs, & Bassinets for 2020 ...",
+      "link": "https://www.sleepandthecity.com/blog-posts/bestbabygearof2020",
+      "domain": "www.sleepandthecity.com",
+      "displayed_link": "www.sleepandthecity.com : blog-posts : bestbabygearo...",
+      "snippet": "Jan 29, 2020 - Baby Gear: Best Strollers, Cribs, & Bassinets for 2020. I'm so happy you're here! Hi, I'm Lauren! I'm the�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Baby",
+        "Best Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7Qg9MNKr2i4J:https://www.sleepandthecity.com/blog-posts/bestbabygearof2020+&cd=125&hl=en&ct=clnk&gl=us",
+      "block_position": 111,
+      "type": "organic_results"
+    },
+    {
+      "position": 109,
+      "title": "7 Best Double Strollers for Travel 2020 - Family Vacation Critic",
+      "link": "https://www.familyvacationcritic.com/best-double-strollers-for-travel/art/",
+      "domain": "www.familyvacationcritic.com",
+      "displayed_link": "www.familyvacationcritic.com : art",
+      "snippet": "Feb 19, 2020 - 7 Best Double Strollers for Travel 2020 � 1. Chicco BravoFor2 Standing/Sitting Double Stroller � 2. UPPAbaby G-Link � 3. Baby Jogger City Mini GT�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "Strollers",
+        "Baby"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:fEHmtnrAs3oJ:https://www.familyvacationcritic.com/best-double-strollers-for-travel/art/+&cd=126&hl=en&ct=clnk&gl=us",
+      "block_position": 112,
+      "type": "organic_results"
+    },
+    {
+      "position": 110,
+      "title": "The Best 10 Baby Stroller Brands for 2019 - Babylic",
+      "link": "https://www.babylic.com/best-10-baby-stroller-brands/",
+      "domain": "www.babylic.com",
+      "displayed_link": "www.babylic.com : best-10-baby-stroller-brands",
+      "snippet": "Best Top Ten Baby & Toddler Strollers 2020 (updated). With the New Year just around the corner, many companies are in a rush to capitalize on eager shoppers�...",
+      "prerender": false,
+      "snippet_matched": [
+        "Best",
+        "Baby",
+        "Strollers"
+      ],
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:vNWTW-ifq7EJ:https://www.babylic.com/best-10-baby-stroller-brands/+&cd=127&hl=en&ct=clnk&gl=us",
+      "block_position": 113,
+      "type": "organic_results"
+    }
+  ]
+}
