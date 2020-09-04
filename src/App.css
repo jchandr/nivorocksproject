@@ -7,7 +7,14 @@
 }
 
 .bump-chart-wrapper {
-  height: 800px;
+  height: 1900px;
+}
+
+.search-bar-wrapper {
+  top: 1em;
+  position: sticky;
+  background-color: white;
+  z-index: 1;
 }
 
 .App-logo {
